@@ -1,7 +1,7 @@
 # arwen-all-bots
 Luis ve Matthe ( Boran Gökden) Kardeşlerimden aldığım discord v12 sürümünü desteklemiyor haberinden sonra  tüm v13 botlarımı paylasmaya karar verdim.
 ## Paylaşım Tarihi
-V13 botları yakın zamanda paylaşılacaktır.
+yarın atarım üşenmezsem.
 
 ![image](https://user-images.githubusercontent.com/77726399/227242700-3dca8c00-f6aa-4130-bac9-929317dca4b6.png)
 
