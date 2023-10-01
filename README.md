@@ -1,8 +1,6 @@
 # arwen-all-bots
-Luis ve Matthe ( Boran Gökden) Kardeşlerimden aldığım discord v12 sürümünü desteklemiyor haberinden sonra  tüm v13 botlarımı paylasmaya karar verdim.
-## Paylaşım Tarihi
-yarın atarım üşenmezsem.
-
+## Artık Güncel Değil
+Bot artık güncel değil yeni kullanıcı adı sistemi yok
 ![image](https://user-images.githubusercontent.com/77726399/227242700-3dca8c00-f6aa-4130-bac9-929317dca4b6.png)
 
 ## Botun Görselleri
